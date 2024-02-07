@@ -25,13 +25,13 @@
 
 <br clear="both">
 
-<h3 align="left">⚡Skills e technologies</h3>
+<h2 align="left">⚡Skills e technologies</h2>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">Programming Languages</h4>
+<h3 align="left">Programming Languages</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<h4 align="left">Tools & Frameworks</h4>
+<h3 align="left">Tools & Frameworks</h3>
 
 ###
 
