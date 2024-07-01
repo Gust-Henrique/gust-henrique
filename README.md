@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Hello. I'm Gust! A passionate about development from Brazil.<br><br>- 🔭 I'm looking for my first job opportunity. I hope to be a great developer one day.<br>- 📚 I am currently studying and starting on the frontend.<br><br>👩‍💻  More about Me<br>- ⚡ I'm 18 years old, I currently live in Brazil. I speak moderate English and have experience with Python. In the future I intend to learn other languages.<br>I'm currently studying "Systems Analysis and Development" at university.</h3>
+<h3 align="left">Hello. I'm Gust! A passionate about development from Brazil.<br><br>- 🔭 I'm looking for my first job opportunity. I hope to be a great developer one day.<br>- 📚 I am currently studying and starting on the frontend.<br><br>👩‍💻  More about Me<br>- ⚡ I'm 18 years old, I currently live in Brazil. I speak moderate English and have experience with Python and JS. In the future I intend to learn other languages.<br>I'm currently studying "Systems Analysis and Development" at university.</h3>
 
 ###
 
