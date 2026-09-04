@@ -1,72 +1,16 @@
 <h2 align="center">Hello World!!</h2>
-
-###
-
-<h2 align="left">👩‍💻 About Me</h2>
-
-###
-
+<h2 align="left">👨‍💻 About Me</h2>
 <img align="left" height="300" src="https://i.pinimg.com/564x/12/8a/c1/128ac1eed02301a78b960fab03d1e56a.jpg" />
+<h3 align="left">Hi, I'm Gust — a back-end developer from Curitiba, Brazil.<br><br>- 💼 I work on a fleet management ERP that runs in production for real clients.<br>- 🛠️ My stack is PHP, Laravel, MySQL and ScriptCase.<br>- ⚡ I automated an invoice workflow that used to be handled manually by email, and I write the SQL behind our management reports.<br>- 🤝 I work directly with business areas and company directors, turning requirements into working features.<br><br><br><br>👨‍💻 More about me<br>- 🎓 I finished my Systems Analysis and Development degree at Universidade Positivo.<br>- 🌎 Portuguese (native), English (intermediate), Spanish (basic).<br>- 📚 Currently deepening my knowledge of Laravel and back-end architecture.</h3>
+<br clear="both"> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gust-Henrique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gust-Henrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=html,css&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> </div>
+<br clear="both"> <h2 align="left">⚡ Skills & Technologies</h2>
+<br clear="both"> <h3 align="left">Back-end</h3>
+<br clear="both"> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" /> </div>
+<br clear="both"> <h3 align="left">Front-end</h3>
+<br clear="both"> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" /> </div>
+<br clear="both"> <h3 align="left">Tools</h3>
+<br clear="both"> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /> </div>
+<br clear="both"> <h2 align="left">📫 Contact</h2>
+<div align="left"> <a href="https://www.linkedin.com/in/gustavo-henrique-de-souza-8bbb283ab" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a> <a href="mailto:gustavohds2019@outlook.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /> </a> </div>
 
-###
-
-<h3 align="left">Hello. I'm Gust! A passionate about development from Brazil.<br><br>- 🔭 I'm looking for my first job opportunity. I hope to be a great developer one day.<br>- 📚 I am currently studying and starting on the frontend.<br><br>👩‍💻 More about Me<br>- ⚡ I'm 19 years old, I currently live in Brazil. I speak moderate English and have experience with Python and JS. In the future I intend to learn other languages.<br>I'm currently studying "Systems Analysis and Development" at university.</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Henrique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gust-Henrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">⚡ Skills e technologies</h2>
-
-###
-
-<br clear="both">
-
-<h3 align="left">Programming Languages</h3>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
-  <img width="12" />
-</div>
-
-###
-
-<br clear="both">
-
-<h3 align="left">Tools & Frameworks</h3>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
-</div>
-
-###
+<sub>Older repositories on this profile are coursework exercises, kept here as history.</sub>
